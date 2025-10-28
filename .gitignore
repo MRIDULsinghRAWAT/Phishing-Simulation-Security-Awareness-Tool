@@ -1,0 +1,5 @@
+.env
+venv/
+db/phishsim.db
+__pycache__/
+*.pyc
