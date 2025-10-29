@@ -1,0 +1,5 @@
+MAIL_HOST=sandbox.smtp.mailtrap.io  # (Screenshot se Host)
+MAIL_PORT=587                     # (Screenshot se Port - hum 587 hi use karenge)
+MAIL_USER=b8fd51428a91f6           # (Screenshot se Username)
+MAIL_PASS=61b7abd9d755b8
+
